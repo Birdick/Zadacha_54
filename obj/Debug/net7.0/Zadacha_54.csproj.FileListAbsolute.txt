@@ -1,0 +1,15 @@
+C:\Users\birdi\OneDrive\Рабочий стол\Big Data\Urok_8\Zadacha_54\bin\Debug\net7.0\Zadacha_54.exe
+C:\Users\birdi\OneDrive\Рабочий стол\Big Data\Urok_8\Zadacha_54\bin\Debug\net7.0\Zadacha_54.deps.json
+C:\Users\birdi\OneDrive\Рабочий стол\Big Data\Urok_8\Zadacha_54\bin\Debug\net7.0\Zadacha_54.runtimeconfig.json
+C:\Users\birdi\OneDrive\Рабочий стол\Big Data\Urok_8\Zadacha_54\bin\Debug\net7.0\Zadacha_54.dll
+C:\Users\birdi\OneDrive\Рабочий стол\Big Data\Urok_8\Zadacha_54\bin\Debug\net7.0\Zadacha_54.pdb
+C:\Users\birdi\OneDrive\Рабочий стол\Big Data\Urok_8\Zadacha_54\obj\Debug\net7.0\Zadacha_54.csproj.AssemblyReference.cache
+C:\Users\birdi\OneDrive\Рабочий стол\Big Data\Urok_8\Zadacha_54\obj\Debug\net7.0\Zadacha_54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\birdi\OneDrive\Рабочий стол\Big Data\Urok_8\Zadacha_54\obj\Debug\net7.0\Zadacha_54.AssemblyInfoInputs.cache
+C:\Users\birdi\OneDrive\Рабочий стол\Big Data\Urok_8\Zadacha_54\obj\Debug\net7.0\Zadacha_54.AssemblyInfo.cs
+C:\Users\birdi\OneDrive\Рабочий стол\Big Data\Urok_8\Zadacha_54\obj\Debug\net7.0\Zadacha_54.csproj.CoreCompileInputs.cache
+C:\Users\birdi\OneDrive\Рабочий стол\Big Data\Urok_8\Zadacha_54\obj\Debug\net7.0\Zadacha_54.dll
+C:\Users\birdi\OneDrive\Рабочий стол\Big Data\Urok_8\Zadacha_54\obj\Debug\net7.0\refint\Zadacha_54.dll
+C:\Users\birdi\OneDrive\Рабочий стол\Big Data\Urok_8\Zadacha_54\obj\Debug\net7.0\Zadacha_54.pdb
+C:\Users\birdi\OneDrive\Рабочий стол\Big Data\Urok_8\Zadacha_54\obj\Debug\net7.0\Zadacha_54.genruntimeconfig.cache
+C:\Users\birdi\OneDrive\Рабочий стол\Big Data\Urok_8\Zadacha_54\obj\Debug\net7.0\ref\Zadacha_54.dll
